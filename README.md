@@ -1,139 +1,121 @@
-# Hi, I'm Preetam Kumar 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Hey%2C%20I'm%20Preetam&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-### DevOps / Cloud / SRE Engineer
 
-B.Tech CSE graduate focused on **DevOps, Cloud Infrastructure, SRE, and Infrastructure Automation**.
 
-I build and operate cloud-native systems with an emphasis on **automation, reliability, observability, security, and repeatable infrastructure**.
+<img src="https://private-user-images.githubusercontent.com/157911019/658992646-4fb7bcfb-689b-4548-b3d0-048d5db429d9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTAzNDY2MDUsIm5iZiI6MTc5MDM0NjMwNSwicGF0aCI6Ii8xNTc5MTEwMTkvNjU4OTkyNjQ2LTRmYjdiY2ZiLTY4OWItNDU0OC1iM2QwLTA0OGQ1ZGI0MjlkOS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkyNVQxNDI1MDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MmIwYTNmYzU1NDZhOWY3ZjcwZGU2MDU0OTU3MDE0ZGU2MTkxZTRiNWJjNGYwMzc3ZjQ5MTcyOTg5ZjdkMWZiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.vAsQ4jUfF3mfbMHlJv60WWTQ-R1VCnPQcnMCf_5f3L0" alt="Banner" width="100%" />
 
-Currently looking for **entry-level DevOps / Cloud / SRE / Infrastructure Engineering opportunities**.
+## 📌 About Me
+- Building reliable cloud infrastructure, CI/CD pipelines, and observability systems.
 
----
 
-## 🚀 What I Work With
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/preetam-3">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=preetam-3&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="preetam-3's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=preetam-3&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="preetam-3's GitHub Streak" width="49%" />
+</p>
 
-**Cloud & Infrastructure**
 
-`AWS` · `Oracle Cloud` · `EKS` · `EC2` · `RDS` · `ALB` · `IAM` · `VPC`
+## 🛠️ Languages & Tools
 
-**Infrastructure as Code & Automation**
+<h3 align="center">Cloud</h3>
 
-`Terraform` · `CloudFormation` · `Packer` · `Ansible` · `AWS SSM` · `Python` · `Bash`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle Cloud" width="45" />
+</p>
 
-**Containers & Kubernetes**
+<h3 align="center">Infrastructure & Automation</h3>
 
-`Docker` · `Kubernetes` · `Helm` · `EKS` · `Argo CD`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original.svg" alt="Packer" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="CloudFormation" width="40" />
+</p>
 
-**CI/CD & DevSecOps**
+<h3 align="center">Containers & Orchestration</h3>
 
-`Jenkins` · `GitHub Actions` · `GitOps` · `SonarQube` · `Trivy` · `Amazon ECR`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="40" />
+</p>
 
-**Observability & Reliability**
+<h3 align="center">CI/CD & GitOps</h3>
 
-`Prometheus` · `Grafana` · `Loki` · `Tempo` · `Alertmanager` · `OpenTelemetry` · `CloudWatch`
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="Argo CD" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
+</p>
 
-**Languages & Tools**
+<h3 align="center">Observability</h3>
 
-`Python` · `Bash` · `Git` · `Linux` · `SQL` · `FastAPI`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/loki.svg" alt="Loki" width="40"/>
+</p>
 
----
+<h3 align="center">Security & Scripting</h3>
 
-## 🔧 Featured Projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/trivy" alt="Trivy" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/sonarqube.svg" alt="SonarQube" width="40"/>
+</p>
 
-### 🔭 Production Observability & Incident Response Platform
+<p align="center">
+  <a href="https://github.com/Preetam-3">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Preetam-3&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" alt="Trivy" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="SonarQube" width="40" />
+</p>
 
-**[cloud-native-observability-platform](https://github.com/Preetam-3/cloud-native-observability-platform)**
+<p align="center">
+  <a href="https://github.com/Preetam-3">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Preetam-3&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+```
 
-A production-style observability stack designed to demonstrate how engineers detect, investigate, and respond to application incidents.
 
-* Instrumented a Node.js application with **OpenTelemetry**
-* Distributed tracing using **Tempo + OTLP**
-* Metrics and Golden Signals with **Prometheus + Grafana**
-* Centralized logs using **Loki**
-* Alerting and incident notification using **Alertmanager**
-* Containerized deployment using **Docker Compose**
-* Added controlled failure scenarios such as **database latency and memory leaks**
-* Built dashboards around latency, traffic, errors, and resource behavior
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/preetam03">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:preetam0116@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="preetam.framer.ai">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
 
-**Stack:** `Docker` `OpenTelemetry` `Prometheus` `Grafana` `Loki` `Tempo` `Alertmanager`
-
----
-
-### ☁️ Scalable Java Applications on AWS using Terraform
-
-**[Scalable-Java-Applications-on-AWS-Using-Terraform](https://github.com/Preetam-3/Scalable-Java-Applications-on-AWS-Using-Terraform)**
-
-Infrastructure-as-Code project for deploying a scalable application architecture on AWS.
-
-* Provisioned AWS infrastructure using **Terraform**
-* Built an **ALB + Auto Scaling + EC2** architecture
-* Managed application database using **Amazon RDS**
-* Created custom application AMIs using **Packer**
-* Automated configuration with **Ansible**
-* Used **AWS SSM and Secrets Manager** for operational access and secrets
-* Designed reusable VPC/networking infrastructure
-* Used remote state management for Terraform
-
-**Stack:** `AWS` `Terraform` `Packer` `Ansible` `RDS` `ALB` `ASG` `SSM`
-
----
-
-### 🔐 DevSecOps CI/CD Pipeline
-
-**[devsecops-jenkins-ci-cd-pipeline](https://github.com/Preetam-3/devsecops-jenkins-ci-cd-pipeline)**
-
-A Kubernetes-based CI/CD pipeline integrating security checks into the software delivery process.
-
-* Jenkins deployed on **Kubernetes/EKS**
-* Static code analysis with **SonarQube**
-* Container vulnerability scanning with **Trivy**
-* Container image publishing to **Amazon ECR**
-* Automated build and delivery workflow
-
-**Stack:** `Jenkins` `Kubernetes` `EKS` `SonarQube` `Trivy` `ECR`
-
----
-
-## 🧠 Currently Learning / Building
-
-* **Python automation & scripting** for infrastructure workflows
-* **Kubernetes internals and production operations**
-* **SRE practices** — SLIs, SLOs, monitoring and incident response
-* **Cloud infrastructure automation**
-* **Agentic AI / LLM infrastructure**
-* **Open-source contribution**
-
----
-
-## 🏆 Certification
-
-**Oracle Cloud Infrastructure 2025 Certified DevOps Professional**
-
----
-
-## 💼 Background
-
-Before transitioning into software/cloud engineering, I worked as an **Automation Engineering Apprentice at BASF Catalyst India**, working with:
-
-* PLC systems
-* SCADA
-* Industrial robotics
-* Machine/robot troubleshooting
-* Sensors and industrial automation
-* Production equipment maintenance
-
-That experience gave me exposure to **real production environments, troubleshooting, system reliability, and operational problem-solving** — principles I now apply to software infrastructure and cloud systems.
-
----
-
-## 🔗 Connect With Me
-
-**LinkedIn:** [linkedin.com/in/preetam03](https://linkedin.com/in/preetam03)
-
-**Portfolio:** [preetam.framer.ai](https://preetam.framer.ai/)
-
-**Email:** [preetamd0116@gmail.com](mailto:preetamd0116@gmail.com)
-
----
-
-### ⚙️ Building infrastructure, automating repetitive work, and learning how to keep systems reliable.
