@@ -83,20 +83,7 @@
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/sonarqube.svg" alt="SonarQube" width="40"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Preetam-3">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Preetam-3&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" alt="Trivy" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="SonarQube" width="40" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Preetam-3">
