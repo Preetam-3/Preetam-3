@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Hey%2C%20I'm%20Preetam&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 
-
-<img src="https://private-user-images.githubusercontent.com/157911019/658992646-4fb7bcfb-689b-4548-b3d0-048d5db429d9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTAzNDY2MDUsIm5iZiI6MTc5MDM0NjMwNSwicGF0aCI6Ii8xNTc5MTEwMTkvNjU4OTkyNjQ2LTRmYjdiY2ZiLTY4OWItNDU0OC1iM2QwLTA0OGQ1ZGI0MjlkOS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkyNVQxNDI1MDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MmIwYTNmYzU1NDZhOWY3ZjcwZGU2MDU0OTU3MDE0ZGU2MTkxZTRiNWJjNGYwMzc3ZjQ5MTcyOTg5ZjdkMWZiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.vAsQ4jUfF3mfbMHlJv60WWTQ-R1VCnPQcnMCf_5f3L0" alt="Banner" width="100%" />
+<img src="./assets/non_chalant_cat.gif" alt="Banner" width="100%">
 
 ## 📌 About Me
 - Building reliable cloud infrastructure, CI/CD pipelines, and observability systems.
